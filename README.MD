@@ -1,4 +1,4 @@
-#Image converter script (.jpg to .png)
+# Image converter script (.jpg to .png)
 
 ## Requirements:
 
